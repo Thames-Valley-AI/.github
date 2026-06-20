@@ -4,7 +4,7 @@ Welcome to the official GitHub page for the Thames Valley AI Hub (TVAI)!
 
 TVAI is a community that brings together AI enthusiasts, tech professionals, academics, and curious minds in the Thames Valley region. Our goal is to accelerate innovation and increase public awareness regarding the implications of AI.
 
-Supported by the University of Reading, TVAI is a partnership between industry and academia aimed at fostering a dynamic community where innovation, knowledge sharing, and entrepreneurship can flourish. [4] We are dedicated to elevating the profile of the Thames Valley's technology landscape and positioning the region as a significant contributor to the AI revolution.
+Supported by the University of Reading, TVAI is a partnership between industry and academia aimed at fostering a dynamic community where innovation, knowledge sharing, and entrepreneurship can flourish. We are dedicated to elevating the profile of the Thames Valley's technology landscape and positioning the region as a significant contributor to the AI revolution.
 
 ## What We Do
 
