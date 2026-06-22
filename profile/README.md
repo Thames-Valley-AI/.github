@@ -1,5 +1,7 @@
 # Thames Valley AI Hub
 
+[](images/tvai_banner.png)
+
 Welcome to the official GitHub page for the Thames Valley AI Hub (TVAI)!
 
 TVAI is a community that brings together AI enthusiasts, tech professionals, academics, and curious minds in the Thames Valley region. Our goal is to accelerate innovation and increase public awareness regarding the implications of AI.
